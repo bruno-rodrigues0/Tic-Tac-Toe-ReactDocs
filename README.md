@@ -13,6 +13,6 @@ No diretório do projeto, você pode rodar:
 Abre o app em modo desenvolvedor.\
 Abra [http://localhost:3000](http://localhost:3000) para vê-lo no seu navegador.
 
-A página irá recarregar quando você fizer alterações.
-Você tampem pode ver qualquer erro no console.
+A página irá recarregar quando você fizer alterações.\
+Você também pode ver qualquer erro no console.
 
