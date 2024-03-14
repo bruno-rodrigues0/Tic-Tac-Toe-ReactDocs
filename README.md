@@ -4,7 +4,7 @@ Esse jogo foi feito a fim de aprender a funcionalidades básicas do React
 
 Ainda não foi 100% implementado. Funcionalidades como Time Travel ainda não foram desenvolvidas 
 
-##Startando o projeto
+## Startando o projeto
 
 No diretório do projeto, você pode rodar:
 
